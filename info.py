@@ -29,8 +29,8 @@ SUBSCRIPTION = (environ.get('SUBSCRIPTION', 'https://telegra.ph/file/734170f40b8
 CODE = (environ.get('CODE', 'https://telegra.ph/file/72f425007b22d28bd935e.jpg'))
 
 #stream link shortner
-STREAM_SITE = (environ.get('STREAM_SITE', 'adcash.in'))
-STREAM_API = (environ.get('STREAM_API', 'aa2c86141346d2af6c9dd0e2755cac052323f0c6'))
+STREAM_SITE = (environ.get('STREAM_SITE', 'Krishnalink.com'))
+STREAM_API = (environ.get('STREAM_API', '8cbaaaeb008b6f0f5d404102a966184f616988d3'))
 STREAMHTO = (environ.get('STREAMHTO', 'https://t.me/HowToOpenLinkHP/69'))
 
 # Admins, Channels & Users
@@ -59,8 +59,8 @@ VERIFY = bool(environ.get('VERIFY', False)) # Verification On ( True ) / Off ( F
 HOWTOVERIFY = environ.get('HOWTOVERIFY', "url-https://t.me/") # How to open tutorial link for verification
 
 # Others
-SHORTLINK_URL = environ.get('SHORTLINK_URL', 'adcash.in')
-SHORTLINK_API = environ.get('SHORTLINK_API', 'aa2c86141346d2af6c9dd0e2755cac052323f0c6')
+SHORTLINK_URL = environ.get('SHORTLINK_URL', 'Krishnalink.com')
+SHORTLINK_API = environ.get('SHORTLINK_API', '8cbaaaeb008b6f0f5d404102a966184f616988d3')
 IS_SHORTLINK = bool(environ.get('IS_SHORTLINK', True))
 DELETE_CHANNELS = [int(dch) if id_pattern.search(dch) else dch for dch in environ.get('DELETE_CHANNELS', '0').split()]
 MAX_B_TN = environ.get("MAX_B_TN", "5")
