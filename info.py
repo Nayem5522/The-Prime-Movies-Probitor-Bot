@@ -56,7 +56,7 @@ COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
 # Verify
 VERIFY = bool(environ.get('VERIFY', False)) # Verification On ( True ) / Off ( False )
-HOWTOVERIFY = environ.get('HOWTOVERIFY', "url-https://t.me/jk_movie_addaa/22") # How to open tutorial link for verification
+HOWTOVERIFY = environ.get('HOWTOVERIFY', "URL-https://t.me/") # How to open tutorial link for verification
 
 # Others
 SHORTLINK_URL = environ.get('SHORTLINK_URL', 'publicearn.com')
@@ -68,7 +68,7 @@ MAX_BTN = is_enabled((environ.get('MAX_BTN', "True")), True)
 PORT = environ.get("PORT", "8080")
 GRP_LNK = environ.get('GRP_LNK', 'https://t.me/jk_movie_search')
 CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/+etqGZ6VNsdY1ZGE1')
-TUTORIAL = environ.get('TUTORIAL', 'https://t.me/') # Tutorial video link for opening shortlink website 
+TUTORIAL = environ.get('TUTORIAL', 'https://t.me/jk_movie_addaa/22') # Tutorial video link for opening shortlink website 
 IS_TUTORIAL = bool(environ.get('IS_TUTORIAL', True))
 MSG_ALRT = environ.get('MSG_ALRT', 'ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : Munesh_king')
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1002175873848')) #Log channel id ( make sure bot is admin )
