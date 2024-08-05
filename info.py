@@ -29,9 +29,9 @@ SUBSCRIPTION = (environ.get('SUBSCRIPTION', 'https://telegra.ph/file/734170f40b8
 CODE = (environ.get('CODE', 'https://i.postimg.cc/XYdrdQNy/IMG-20240805-190251.jpg'))
 
 #stream link shortner
-STREAM_SITE = (environ.get('STREAM_SITE', 'publicearn.com'))
-STREAM_API = (environ.get('STREAM_API', '00f5e05110acb50871ba945c10f5a19ec62c22a2'))
-STREAMHTO = (environ.get('STREAMHTO', 'https://t.me/jk_movie_addaa/22'))
+STREAM_SITE = (environ.get('STREAM_SITE', ''))
+STREAM_API = (environ.get('STREAM_API', ''))
+STREAMHTO = (environ.get('STREAMHTO', ''))
 
 # Admins, Channels & Users
 ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '6042310929').split()]
@@ -56,7 +56,7 @@ COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
 # Verify
 VERIFY = bool(environ.get('VERIFY', False)) # Verification On ( True ) / Off ( False )
-HOWTOVERIFY = environ.get('HOWTOVERIFY', "url-https://t.me/") # How to open tutorial link for verification
+HOWTOVERIFY = environ.get('HOWTOVERIFY', "url-https://t.me/jk_movie_addaa/22") # How to open tutorial link for verification
 
 # Others
 SHORTLINK_URL = environ.get('SHORTLINK_URL', 'publicearn.com')
