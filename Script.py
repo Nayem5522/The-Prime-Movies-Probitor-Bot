@@ -32,7 +32,7 @@ Iᴅ = <code>{}</code>
 Tᴏᴛᴀʟ Mᴇᴍʙᴇʀs = <code>{}</code>
 Aᴅᴅᴇᴅ Bʏ - {}
 
-Bʏ @TheMovieProviderBot"""
+Bʏ @Jk_movie_search_bot"""
 
     LOG_TEXT_P = """#NewUser
     
