@@ -38,7 +38,7 @@ async def save_group(bot, message):
             await bot.leave_chat(message.chat.id)
             return
         buttons = [[
-                    InlineKeyboardButton("🍁 𝐌𝐀𝐈𝐍 𝐁𝐎𝐓'𝐒 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 🍁", url="https://t.me/Prime_Botz")
+                    InlineKeyboardButton("🍁 𝐌𝐀𝐈𝐍 𝐁𝐎𝐓𝐒 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 🍁", url="https://t.me/Prime_Botz")
                   ]]
         reply_markup=InlineKeyboardMarkup(buttons)
         await message.reply_text(
