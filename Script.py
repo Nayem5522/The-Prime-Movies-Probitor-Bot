@@ -240,9 +240,7 @@ Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
 """ 
    # PLEASE DO NOT REMOVE ANY CREDITS ❤️‍🩹
     
-    CAPTION = """ 📂 <i><a href="https://telegram.me/Prime_Movies4U">{file_name}</a></i>\n\n<b> Size ⚙️: {file_size}
-
-Jᴏɪɴ Now ➠ [𝐏𝐑𝐈𝐌𝐄 𝐌𝐎𝐕𝐈𝐄 ✨](https://t.me/Prime_Movies4U)\n\nJᴏɪɴ Now ➠ [𝐏𝐑𝐈𝐌𝐄 𝐁𝐎𝐓'𝐒 🔥](https://t.me/Prime_Botz)</b>"""
+    CAPTION = """ 📂 📂 <i><a href="https://telegram.me/Prime_Movies4U">{file_name}</a></i>\n\nJᴏɪɴ Now ➠ @Prime_Botz 🔥\n\n"""
 
     IMDB_TEMPLATE_TXT = """
 <b>ʜᴇʏ {message.from_user.mention}, ʜᴇʀᴇ ɪꜱ ᴛʜᴇ ʀᴇꜱᴜʟᴛꜱ ꜰᴏʀ ʏᴏᴜʀ ǫᴜᴇʀʏ {search}.
