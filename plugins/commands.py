@@ -49,7 +49,7 @@ async def start(client, message):
                     InlineKeyboardButton('• ᴜᴘᴅᴀᴛᴇꜱ •', url='https://t.me/Prime_Movies4U')
                 ],[
                     InlineKeyboardButton('• ᴄᴏᴍᴍᴀɴᴅꜱ •', callback_data='help'),
-                    InlineKeyboardButton('• 𝙰𝙳𝙼𝙸𝙽 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 •', url='https://t.me/Prime_Botz')
+                    InlineKeyboardButton('• 𝙰𝙳𝙼𝙸𝙽 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 •', url='https://t.me/Prime_Admin_Support_ProBot')
                 ],[
                     InlineKeyboardButton('✨ ʙᴜʏ ꜱᴜʙꜱᴄʀɪᴘᴛɪᴏɴ : ʀᴇᴍᴏᴠᴇ ᴀᴅꜱ ✨', url='https://t.me/Prime_Premium_4U')
                   ]]
@@ -119,7 +119,7 @@ async def start(client, message):
                     InlineKeyboardButton('• ᴜᴘᴅᴀᴛᴇꜱ •', url='https://t.me/Prime_Movies4U')
                 ],[
                     InlineKeyboardButton('• ᴄᴏᴍᴍᴀɴᴅꜱ •', callback_data='help'),
-                    InlineKeyboardButton('• 𝙰𝙳𝙼𝙸𝙽 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 •', url='https://t.me/Prime_Botz')
+                    InlineKeyboardButton('• 𝙰𝙳𝙼𝙸𝙽 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 •', url='https://t.me/Prime_Admin_Support_ProBot')
                 ],[
                     InlineKeyboardButton('✨ ʙᴜʏ ꜱᴜʙꜱᴄʀɪᴘᴛɪᴏɴ : ʀᴇᴍᴏᴠᴇ ᴀᴅꜱ ✨', url='https://t.me/Prime_Premium_4U')
                   ]]
