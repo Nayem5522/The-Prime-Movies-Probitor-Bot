@@ -29,8 +29,8 @@ SUBSCRIPTION = (environ.get('SUBSCRIPTION', 'https://envs.sh/w6R.jpg'))
 CODE = (environ.get('CODE', 'https://envs.sh/w6R.jpg'))
 
 #stream link shortner
-STREAM_SITE = (environ.get('STREAM_SITE', 'https://healthy-twila-the-prime-movies-probitor-botz-05b9f379.koyeb.app'))
-STREAM_API = (environ.get('STREAM_API', 'xe7g9eo3j3qnnvuzhhj34tsan0clgluo795p0tcty04hpcfnjrlon7yo12xw1hbe'))
+STREAM_SITE = (environ.get('STREAM_SITE', ''))
+STREAM_API = (environ.get('STREAM_API', ''))
 STREAMHTO = (environ.get('STREAMHTO', 'https://t.me/Prime_Movies4U'))
 
 # Admins, Channels & Users
