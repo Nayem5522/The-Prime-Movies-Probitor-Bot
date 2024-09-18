@@ -25,7 +25,7 @@ PICS = (environ.get('PICS', 'https://envs.sh/w6R.jpg')).split() #SAMPLE PIC
 NOR_IMG = environ.get("NOR_IMG", "https://graph.org/file/e20b5fdaf217252964202.jpg")
 MELCOW_VID = environ.get("MELCOW_VID", "https://t.me/Welcome_Masage/17")
 SPELL_IMG = environ.get("SPELL_IMG", "https://telegra.ph/file/86b7b7e2aa7e38f328902.jpg")
-SUBSCRIPTION = (environ.get('SUBSCRIPTION', 'https://envs.sh/w9B.jpg'))
+SUBSCRIPTION = (environ.get('SUBSCRIPTION', 'https://envs.sh/w6R.jpg'))
 CODE = (environ.get('CODE', 'https://envs.sh/w6R.jpg'))
 
 #stream link shortner
