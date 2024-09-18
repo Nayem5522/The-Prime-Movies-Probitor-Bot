@@ -96,13 +96,14 @@ class Database:
         await self.users.update_one({"id": user_id}, {"$set": user_data}, upsert=True)
         
 db = Database(DATABASE_URI, DATABASE_NAME)
-        if user_data:
-            expiry_time = user_data.get("expiry_time")
-            if expiry_time is None:
-                # User previously used the free trial, but it has ended.
-                return False
-            elif isinstance(expiry_time, datetime.datetime) and datetime.datetime.now() <= expiry_time:
-                return True
+
+if user_data:
+    expiry_time = user_data.get("expiry_time")
+    if expiry_time is None:
+        # User previously used the free trial, but it has ended.
+        return False
+    elif isinstance(expiry_time, datetime.datetime) and datetime.datetime.now() <= expiry_time:
+        return True
             else:
                 await self.users.update_one({"id": user_id}, {"$set": {"expiry_time": None}})
         return False
