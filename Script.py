@@ -240,7 +240,7 @@ Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
 """ 
    # PLEASE DO NOT REMOVE ANY CREDITS ❤️‍🩹
     
-    CAPTION = """ 📂 📂 <i><a href="https://telegram.me/Prime_Movies4U">{file_name}</a></i>\n\nJᴏɪɴ Now ➠ @Prime_Botz 🔥\n\n"""
+    CAPTION = """ 📂 <i><a href="https://telegram.me/Prime_Movies4U">{file_name}</a></i>\n\nJᴏɪɴ Now ➠ @Prime_Botz 🔥\n\n"""
 
     IMDB_TEMPLATE_TXT = """
 <b>ʜᴇʏ {message.from_user.mention}, ʜᴇʀᴇ ɪꜱ ᴛʜᴇ ʀᴇꜱᴜʟᴛꜱ ꜰᴏʀ ʏᴏᴜʀ ǫᴜᴇʀʏ {search}.
@@ -284,13 +284,13 @@ Bʏ The-Prime-Movies-Probitor-Botz</b>"""
     
 🎖️ <u>ᴀᴠᴀɪʟᴀʙʟᴇ ᴘʟᴀɴs</u>
 
-● <code>10₹</code> ➛ <u>ʙʀᴏɴᴢᴇ ᴘʟᴀɴ</u> » <code>7 ᴅᴀʏꜱ</code>
-● <code>60₹</code> ➛ <u>ꜱɪʟᴠᴇʀ ᴘʟᴀɴ</u> » <code>30 ᴅᴀʏꜱ</code>
-● <code>180₹</code> ➛ <u>ɢᴏʟᴅ ᴘʟᴀɴ</u> » <code>90 ᴅᴀʏꜱ</code>
-● <code>250₹</code> ➛ <u>ᴘʟᴀᴛɪɴᴜᴍ ᴘʟᴀɴ</u> » <code>180 ᴅᴀʏꜱ</code>
-● <code>400₹</code> ➛ <u>ᴅɪᴀᴍᴏɴᴅ ᴘʟᴀɴ</u> » <code>365 ᴅᴀʏꜱ</code>
+● <code>20₹</code> ➛ <u>ʙʀᴏɴᴢᴇ ᴘʟᴀɴ</u> » <code>7 ᴅᴀʏꜱ</code>
+● <code>35₹</code> ➛ <u>ꜱɪʟᴠᴇʀ ᴘʟᴀɴ</u> » <code>15 ᴅᴀʏꜱ</code>
+● <code>50₹</code> ➛ <u>ɢᴏʟᴅ ᴘʟᴀɴ</u> » <code>1 ᴍᴏɴᴛʜs</code>
+● <code>140₹</code> ➛ <u>ᴘʟᴀᴛɪɴᴜᴍ ᴘʟᴀɴ</u> » <code>3 ᴍᴏɴᴛʜs</code>
+● <code>250₹</code> ➛ <u>ᴅɪᴀᴍᴏɴᴅ ᴘʟᴀɴ</u> » <code>6 ᴍᴏɴᴛʜs</code>
 
-💵 𝙰𝙻𝙻 𝙿𝙰𝚈𝙼𝙴𝙽𝚃 𝙼𝙴𝚃𝙷𝙾𝙳 𝙰𝚅𝙰𝙸𝙻𝙰𝙱𝙻𝙴 - @Prime_Premium_4U
+💵 𝙰𝙻𝙻 𝙿𝙰𝚈𝙼𝙴𝙽𝚃 𝙼𝙴𝚃𝙷𝙾𝙳 𝙰𝚅𝙰𝙸𝙻𝙰𝙱𝙻𝙴 যদি বিকাশ ছাড়া অন্য কিছুতে পেমেন্ট করতে চান বা কিউআর কোড ছাড়া অথবা আরো বিস্তারিত জানতে\nএখানে ক্লিক করুন ➠ @Prime_Premium_4U \n\n
 📸 ǫʀ ᴄᴏᴅᴇ - <a href='https://envs.sh/w6R.jpg'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ</a>
 
 ⚜️ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴀᴄᴛɪᴠᴇ ᴘʟᴀɴ ʙʏ ᴜꜱɪɴɢ : /myplan
@@ -301,13 +301,13 @@ Bʏ The-Prime-Movies-Probitor-Botz</b>"""
     
 🎖️ <u>ᴀᴠᴀɪʟᴀʙʟᴇ ᴘʟᴀɴs</u> :
 
-● <code>10₹</code> ➛ <u>ʙʀᴏɴᴢᴇ ᴘʟᴀɴ</u> » <code>7 ᴅᴀʏꜱ</code>
-● <code>60₹</code> ➛ <u>ꜱɪʟᴠᴇʀ ᴘʟᴀɴ</u> » <code>30 ᴅᴀʏꜱ</code>
-● <code>180₹</code> ➛ <u>ɢᴏʟᴅ ᴘʟᴀɴ</u> » <code>90 ᴅᴀʏꜱ</code>
-● <code>250₹</code> ➛ <u>ᴘʟᴀᴛɪɴᴜᴍ ᴘʟᴀɴ</u> » <code>180 ᴅᴀʏꜱ</code>
-● <code>400₹</code> ➛ <u>ᴅɪᴀᴍᴏɴᴅ ᴘʟᴀɴ</u> » <code>365 ᴅᴀʏꜱ</code>
+● <code>20₹</code> ➛ <u>ʙʀᴏɴᴢᴇ ᴘʟᴀɴ</u> » <code>7 ᴅᴀʏꜱ</code>
+● <code>35₹</code> ➛ <u>ꜱɪʟᴠᴇʀ ᴘʟᴀɴ</u> » <code>15 ᴅᴀʏꜱ</code>
+● <code>50₹</code> ➛ <u>ɢᴏʟᴅ ᴘʟᴀɴ</u> » <code>1 ᴍᴏɴᴛʜs</code>
+● <code>140₹</code> ➛ <u>ᴘʟᴀᴛɪɴᴜᴍ ᴘʟᴀɴ</u> » <code>3 ᴍᴏɴᴛʜs</code>
+● <code>250₹</code> ➛ <u>ᴅɪᴀᴍᴏɴᴅ ᴘʟᴀɴ</u> » <code>6 ᴍᴏɴᴛʜs</code>
 
-💵 𝙰𝙻𝙻 𝙿𝙰𝚈𝙼𝙴𝙽𝚃 𝙼𝙴𝚃𝙷𝙾𝙳 𝙰𝚅𝙰𝙸𝙻𝙰𝙱𝙻𝙴 - @Prime_Premium_4U
+💵 𝙰𝙻𝙻 𝙿𝙰𝚈𝙼𝙴𝙽𝚃 𝙼𝙴𝚃𝙷𝙾𝙳 𝙰𝚅𝙰𝙸𝙻𝙰𝙱𝙻𝙴 যদি বিকাশ ছাড়া অন্য কিছুতে পেমেন্ট করতে চান বা কিউআর কোড ছাড়া অথবা আরো বিস্তারিত জানতে\nএখানে ক্লিক করুন ➠ @Prime_Premium_4U \n\n
 📸 ǫʀ ᴄᴏᴅᴇ - <a href='https://envs.sh/w6R.jpg'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ</a>
 
 ⚜️ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴀᴄᴛɪᴠᴇ ᴘʟᴀɴ ʙʏ ᴜꜱɪɴɢ : /myplan
@@ -349,7 +349,7 @@ Bʏ The-Prime-Movies-Probitor-Botz</b>"""
     
 🥉 <u>ʙʀᴏɴᴄᴇ ᴘʟᴀɴ</u>
 ⏰ 7 ᴅᴀʏꜱ
-💸 ᴘʟᴀɴ ᴘʀɪᴄᴇ ➛ 10₹
+💸 ᴘʟᴀɴ ᴘʀɪᴄᴇ ➛ 20₹
 
 ➛ ᴜꜱᴇ /plan ᴛᴏ ꜱᴇᴇ ᴀʟʟ ᴏᴜʀ ᴘʟᴀɴꜱ ᴀᴛ ᴏɴᴄᴇ.
 ➛ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴀᴄᴛɪᴠᴇ ᴘʟᴀɴ ʙʏ ᴜꜱɪɴɢ : /myplan</b>"""
@@ -357,8 +357,8 @@ Bʏ The-Prime-Movies-Probitor-Botz</b>"""
     SILVER_TXT = """<b>👋 ʜᴇʏ {},
     
 🥈 <u>ꜱɪʟᴠᴇʀ ᴘʟᴀɴ</u>
-⏰ 30 ᴅᴀʏꜱ 
-💸 ᴘʟᴀɴ ᴘʀɪᴄᴇ ➛ 60₹
+⏰ 15 ᴅᴀʏꜱ 
+💸 ᴘʟᴀɴ ᴘʀɪᴄᴇ ➛ 30₹
 
 ➛ ᴜꜱᴇ /plan ᴛᴏ ꜱᴇᴇ ᴀʟʟ ᴏᴜʀ ᴘʟᴀɴꜱ ᴀᴛ ᴏɴᴄᴇ.
 ➛ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴀᴄᴛɪᴠᴇ ᴘʟᴀɴ ʙʏ ᴜꜱɪɴɢ : /myplan</b>"""
@@ -366,8 +366,8 @@ Bʏ The-Prime-Movies-Probitor-Botz</b>"""
     GOLD_TXT = """<b>👋 ʜᴇʏ {},
     
 🥇 <u>ɢᴏʟᴅ ᴘʟᴀɴ</u>
-⏰ 90 ᴅᴀʏꜱ 
-💸 ᴘʟᴀɴ ᴘʀɪᴄᴇ ➛ 180₹
+⏰ 1 ᴍᴏɴᴛʜs 
+💸 ᴘʟᴀɴ ᴘʀɪᴄᴇ ➛ 50₹
 
 ➛ ᴜꜱᴇ /plan ᴛᴏ ꜱᴇᴇ ᴀʟʟ ᴏᴜʀ ᴘʟᴀɴꜱ ᴀᴛ ᴏɴᴄᴇ.
 ➛ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴀᴄᴛɪᴠᴇ ᴘʟᴀɴ ʙʏ ᴜꜱɪɴɢ : /myplan</b>"""
@@ -375,8 +375,8 @@ Bʏ The-Prime-Movies-Probitor-Botz</b>"""
     PLATINUM_TXT = """<b>👋 ʜᴇʏ {},
     
 🏅 <u>ᴘʟᴀᴛɪɴᴜᴍ ᴘʟᴀɴ</u>
-⏰ 180 ᴅᴀʏꜱ 
-💸 ᴘʟᴀɴ ᴘʀɪᴄᴇ ➛ 250₹
+⏰ 3 ᴍᴏɴᴛʜs 
+💸 ᴘʟᴀɴ ᴘʀɪᴄᴇ ➛ 140₹
 
 ➛ ᴜꜱᴇ /plan ᴛᴏ ꜱᴇᴇ ᴀʟʟ ᴏᴜʀ ᴘʟᴀɴꜱ ᴀᴛ ᴏɴᴄᴇ.
 ➛ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴀᴄᴛɪᴠᴇ ᴘʟᴀɴ ʙʏ ᴜꜱɪɴɢ : /myplan</b>"""
@@ -384,8 +384,8 @@ Bʏ The-Prime-Movies-Probitor-Botz</b>"""
     DIAMOND_TXT = """<b>👋 ʜᴇʏ {},
 
 💎 <u>ᴅɪᴀᴍᴏɴᴅ ᴘʟᴀɴ</u>
-⏰ 365 ᴅᴀʏꜱ 
-💸 ᴘʟᴀɴ ᴘʀɪᴄᴇ ➛ 400₹
+⏰ 6 ᴍᴏɴᴛʜs 
+💸 ᴘʟᴀɴ ᴘʀɪᴄᴇ ➛ 250₹
 
 ➛ ᴜꜱᴇ /plan ᴛᴏ ꜱᴇᴇ ᴀʟʟ ᴏᴜʀ ᴘʟᴀɴꜱ ᴀᴛ ᴏɴᴄᴇ.
 ➛ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴀᴄᴛɪᴠᴇ ᴘʟᴀɴ ʙʏ ᴜꜱɪɴɢ : /myplan</b>"""
@@ -437,9 +437,9 @@ Bʏ The-Prime-Movies-Probitor-Botz</b>"""
 ● <code>35₹</code> ➛ <u>ꜱɪʟᴠᴇʀ ᴘʟᴀɴ</u> » <code>15 ᴅᴀʏꜱ</code>
 ● <code>50₹</code> ➛ <u>ɢᴏʟᴅ ᴘʟᴀɴ</u> » <code>1 ᴍᴏɴᴛʜs</code>
 ● <code>140₹</code> ➛ <u>ᴘʟᴀᴛɪɴᴜᴍ ᴘʟᴀɴ</u> » <code>3 ᴍᴏɴᴛʜs</code>
-● <code>240₹</code> ➛ <u>ᴅɪᴀᴍᴏɴᴅ ᴘʟᴀɴ</u> » <code>6 ᴍᴏɴᴛʜs</code>
+● <code>250₹</code> ➛ <u>ᴅɪᴀᴍᴏɴᴅ ᴘʟᴀɴ</u> » <code>6 ᴍᴏɴᴛʜs</code>
 
-💵 𝙰𝙻𝙻 𝙿𝙰𝚈𝙼𝙴𝙽𝚃 𝙼𝙴𝚃𝙷𝙾𝙳\n𝙰𝚅𝙰𝙸𝙻𝙰𝙱𝙻𝙴 ➠ @Prime_Premium_4U \n\n
+💵 𝙰𝙻𝙻 𝙿𝙰𝚈𝙼𝙴𝙽𝚃 𝙼𝙴𝚃𝙷𝙾𝙳 𝙰𝚅𝙰𝙸𝙻𝙰𝙱𝙻𝙴 যদি বিকাশ ছাড়া অন্য কিছুতে পেমেন্ট করতে চান বা কিউআর কোড ছাড়া অথবা আরো বিস্তারিত জানতে\nএখানে ক্লিক করুন ➠ @Prime_Premium_4U \n\n
 📸 ǫʀ ᴄᴏᴅᴇ - <a href='https://envs.sh/w6R.jpg'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ</a>
 
 ⚜️ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴀᴄᴛɪᴠᴇ ᴘʟᴀɴ ʙʏ ᴜꜱɪɴɢ : /myplan
