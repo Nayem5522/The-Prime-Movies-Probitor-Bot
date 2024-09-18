@@ -29,9 +29,9 @@ SUBSCRIPTION = (environ.get('SUBSCRIPTION', 'https://envs.sh/w6R.jpg'))
 CODE = (environ.get('CODE', 'https://envs.sh/w6R.jpg'))
 
 #stream link shortner
-STREAM_SITE = (environ.get('STREAM_SITE', ''))
-STREAM_API = (environ.get('STREAM_API', ''))
-STREAMHTO = (environ.get('STREAMHTO', ''))
+STREAM_SITE = (environ.get('STREAM_SITE', 'droplink.co'))
+STREAM_API = (environ.get('STREAM_API', 'd1e52488bac3d8297d89f895ed8ec64fd04253f8'))
+STREAMHTO = (environ.get('STREAMHTO', 'https://t.me/Prime_Movies4U'))
 
 # Admins, Channels & Users
 ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '5926160191').split()]
@@ -59,8 +59,8 @@ VERIFY = bool(environ.get('VERIFY',  False )) # Verification On ( True ) / Off (
 HOWTOVERIFY = environ.get('HOWTOVERIFY', "URL-https://t.me/") # How to open tutorial link for verification
 
 # Others
-SHORTLINK_URL = environ.get('SHORTLINK_URL', 'publicearn.com')
-SHORTLINK_API = environ.get('SHORTLINK_API', '00f5e05110acb50871ba945c10f5a19ec62c22a2')
+SHORTLINK_URL = environ.get('SHORTLINK_URL', 'droplink.co')
+SHORTLINK_API = environ.get('SHORTLINK_API', 'd1e52488bac3d8297d89f895ed8ec64fd04253f8')
 IS_SHORTLINK = bool(environ.get('IS_SHORTLINK', False))
 DELETE_CHANNELS = [int(dch) if id_pattern.search(dch) else dch for dch in environ.get('DELETE_CHANNELS', '0').split()]
 MAX_B_TN = environ.get("MAX_B_TN", "5")
