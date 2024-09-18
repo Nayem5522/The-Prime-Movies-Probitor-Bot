@@ -29,21 +29,21 @@ SUBSCRIPTION = (environ.get('SUBSCRIPTION', 'https://envs.sh/w6R.jpg'))
 CODE = (environ.get('CODE', 'https://envs.sh/w6R.jpg'))
 
 #stream link shortner
-STREAM_SITE = (environ.get('STREAM_SITE', 'droplink.co'))
-STREAM_API = (environ.get('STREAM_API', 'd1e52488bac3d8297d89f895ed8ec64fd04253f8'))
+STREAM_SITE = (environ.get('STREAM_SITE', 'https://healthy-twila-the-prime-movies-probitor-botz-05b9f379.koyeb.app'))
+STREAM_API = (environ.get('STREAM_API', 'xe7g9eo3j3qnnvuzhhj34tsan0clgluo795p0tcty04hpcfnjrlon7yo12xw1hbe'))
 STREAMHTO = (environ.get('STREAMHTO', 'https://t.me/Prime_Movies4U'))
 
 # Admins, Channels & Users
-ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '5926160191').split()]
+ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '7057105056').split()]
 CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '-1002197801965').split()] #Channel id for auto indexing ( make sure bot is admin )
 auth_users = [int(user) if id_pattern.search(user) else user for user in environ.get('-1001934444199', '').split()]
 AUTH_USERS = (auth_users + ADMINS) if auth_users else []
-PREMIUM_USER = [int(user) if id_pattern.search(user) else user for user in environ.get('PREMIUM_USER', '').split()]
+PREMIUM_USER = [int(user) if id_pattern.search(user) else user for user in environ.get('PREMIUM_USER', '7057105056').split()]
 auth_channel = environ.get('AUTH_CHANNEL', '-1002043502363') #Channel / Group Id for force sub ( make sure bot is admin )
 auth_grp = environ.get('AUTH_GROUP')
 AUTH_CHANNEL = int(auth_channel) if auth_channel and id_pattern.search(auth_channel) else None
 AUTH_GROUPS = [int(ch) for ch in auth_grp.split()] if auth_grp else None
-support_chat_id = environ.get('SUPPORT_CHAT_ID', '-1002043502363') # support group id ( make sure bot is admin )
+support_chat_id = environ.get('SUPPORT_CHAT_ID', '-1002110806325') # support group id ( make sure bot is admin )
 reqst_channel = environ.get('REQST_CHANNEL_ID', '-1002242875858') # request channel id ( make sure bot is admin )
 REQST_CHANNEL = int(reqst_channel) if reqst_channel and id_pattern.search(reqst_channel) else None
 SUPPORT_CHAT_ID = int(support_chat_id) if support_chat_id and id_pattern.search(support_chat_id) else None
